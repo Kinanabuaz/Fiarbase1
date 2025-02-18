@@ -1,0 +1,14 @@
+{
+  "user_name": "User Name!",
+  "email": "Email!",
+  "phone": "Phone!",
+  "password": "Password!",
+  "login": "Login",
+  "invalidEmail": "Please enter a valid email.",
+  "enterPassword": "Enter your password.",
+  "enterValidPassword": "Password cannot be empty.",
+  "rememberMe": "Remember Me",
+  "arabic": "Arabic",
+  "english": "English",
+  "avs": "ssdsd"
+}
